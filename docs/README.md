@@ -1,18 +1,14 @@
 ---
 home: true
-heroImage: /egg.png
-heroText: 裂泉的前端记录
-tagline: 一点一滴都是进步
-actionText: 马上进入 →
+heroImage: /timg.jpg
+heroText: 一点一滴都是进步
+tagline: 个人测试页面，如有侵权请告知undefinded007@163.com
+actionText: 躁动起来 →
 actionLink: /pages/folder1/test1.md
 features:
-- title: 简洁至上
-  details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。
-- title: Vue驱动
-  details: 享受 Vue + webpack 的开发体验，在 Markdown 中使用 Vue 组件，同时可以使用 Vue 来开发自定义主题。
-- title: 高性能
-  details: VuePress 为每个页面预渲染生成静态的 HTML，同时在页面被加载的时候，将作为 SPA 运行。
----
-<ClientOnly>
-  <BottomData/>
-</ClientOnly>
+- title: 剑非道
+  details: 悟来时见江海古，苍崖行遍谒玄门；向道偶题人间世，一笛一剑一昆仑。
+- title: 名剑绝世
+  details: 雪无夜，夜无名，愁海孤灯霜剑鸣; 雪藏夜，夜藏锋，寒霜凄咽一剑封。
+- title: 三余无梦生
+  details: 非吾小天下，才高而已；非吾纵古今，时赋而已；非吾睨九州，宏观而已；三非焉罪？无梦至胜。

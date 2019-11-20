@@ -1,16 +1,12 @@
-## 关于Vue下组件引入第三方外部外链Js几种方式
-https://blog.csdn.net/u010881899/article/details/80895661
+## 火车跑起来
+<ClientOnly>
+  <videoSu/>
+</ClientOnly>
 
-## nginx一键配置
-https://nginxconfig.io/
 
-![](/egg.png)
+## 再上图
+![](https://wx4.sinaimg.cn/mw690/006BvHPFgy1g5nnxbuap6j32yo4g0npf.jpg)
 
-## lodash按需加载
-https://www.jianshu.com/p/f03ff4f3a8b3
-
-## threeJs 
-#### 中文教程
 
 ::: warning
 This is a warning
